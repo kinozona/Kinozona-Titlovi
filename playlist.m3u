@@ -1,624 +1,624 @@
-#EXTINF:-1 tvg-id="┃HR┃ HRT 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 1 4K",┃HR┃ HRT 1 4K
+#EXTINF:-1 tvg-id=" HRT 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 1 4K", HRT 1 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=890&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 1 HD",┃HR┃ HRT 1 HD
+#EXTINF:-1 tvg-id=" HRT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 1 HD", HRT 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559121&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 2 4K",┃HR┃ HRT 2 4K
+#EXTINF:-1 tvg-id=" HRT 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 2 4K", HRT 2 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=889&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 2 HD",┃HR┃ HRT 2 HD
+#EXTINF:-1 tvg-id=" HRT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 2 HD", HRT 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559122&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT 3 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT3.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 3 4K",┃HR┃ HRT 3 4K
+#EXTINF:-1 tvg-id=" HRT 3 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT3.png" group-title=" HRVATSKA" tvg-name=" HRT 3 4K", HRT 3 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=888&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 3 HD",┃HR┃ HRT 3 HD
+#EXTINF:-1 tvg-id=" HRT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 3 HD", HRT 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559123&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT 4 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT4-logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 4 4K",┃HR┃ HRT 4 4K
+#EXTINF:-1 tvg-id=" HRT 4 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT4-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 4 4K", HRT 4 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=887&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT 4 HD",┃HR┃ HRT 4 HD
+#EXTINF:-1 tvg-id=" HRT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 4 HD", HRT 4 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559124&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT INT. 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HRTINT.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT INT. 4K",┃HR┃ HRT INT. 4K
+#EXTINF:-1 tvg-id=" HRT INT. 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HRTINT.png" group-title=" HRVATSKA" tvg-name=" HRT INT. 4K", HRT INT. 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559125&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ HRT INT. HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HRTINT.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ HRT INT. HD",┃HR┃ HRT INT. HD
+#EXTINF:-1 tvg-id=" HRT INT. HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/HRTINT.png" group-title=" HRVATSKA" tvg-name=" HRT INT. HD", HRT INT. HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559126&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ NOVA TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ NOVA TV 4K",┃HR┃ NOVA TV 4K
+#EXTINF:-1 tvg-id=" NOVA TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" HRVATSKA" tvg-name=" NOVA TV 4K", NOVA TV 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=885&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ NOVA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ NOVA TV HD",┃HR┃ NOVA TV HD
+#EXTINF:-1 tvg-id=" NOVA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" HRVATSKA" tvg-name=" NOVA TV HD", NOVA TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=884&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ NOVA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ NOVA TV",┃HR┃ NOVA TV
+#EXTINF:-1 tvg-id=" NOVA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" HRVATSKA" tvg-name=" NOVA TV", NOVA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559127&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ NOVA PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ NOVA PLUS HD",┃HR┃ NOVA PLUS HD
+#EXTINF:-1 tvg-id=" NOVA PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" HRVATSKA" tvg-name=" NOVA PLUS HD", NOVA PLUS HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559379&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ DOMA TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/TV_Doma_logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ DOMA TV 4K",┃HR┃ DOMA TV 4K
+#EXTINF:-1 tvg-id=" DOMA TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/TV_Doma_logo.png" group-title=" HRVATSKA" tvg-name=" DOMA TV 4K", DOMA TV 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=883&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ DOMA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/TV_Doma_logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ DOMA TV HD",┃HR┃ DOMA TV HD
+#EXTINF:-1 tvg-id=" DOMA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/TV_Doma_logo.png" group-title=" HRVATSKA" tvg-name=" DOMA TV HD", DOMA TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=882&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ DOMA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/TV_Doma_logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ DOMA TV",┃HR┃ DOMA TV
+#EXTINF:-1 tvg-id=" DOMA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/TV_Doma_logo.png" group-title=" HRVATSKA" tvg-name=" DOMA TV", DOMA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559128&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Rtl-logo.svg.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL 4K",┃HR┃ RTL 4K
+#EXTINF:-1 tvg-id=" RTL 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Rtl-logo.svg.png" group-title=" HRVATSKA" tvg-name=" RTL 4K", RTL 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=881&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Rtl-logo.svg.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL HD",┃HR┃ RTL HD
+#EXTINF:-1 tvg-id=" RTL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Rtl-logo.svg.png" group-title=" HRVATSKA" tvg-name=" RTL HD", RTL HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559129&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Rtl-logo.svg.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL",┃HR┃ RTL
+#EXTINF:-1 tvg-id=" RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Rtl-logo.svg.png" group-title=" HRVATSKA" tvg-name=" RTL", RTL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559130&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_2_Logo.svg.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL 2 HD",┃HR┃ RTL 2 HD
+#EXTINF:-1 tvg-id=" RTL 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_2_Logo.svg.png" group-title=" HRVATSKA" tvg-name=" RTL 2 HD", RTL 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=880&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_2_Logo.svg.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL 2",┃HR┃ RTL 2
+#EXTINF:-1 tvg-id=" RTL 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_2_Logo.svg.png" group-title=" HRVATSKA" tvg-name=" RTL 2", RTL 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559131&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL PASSION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Passion.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL PASSION HD",┃HR┃ RTL PASSION HD
+#EXTINF:-1 tvg-id=" RTL PASSION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Passion.png" group-title=" HRVATSKA" tvg-name=" RTL PASSION HD", RTL PASSION HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=879&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL CRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Crime_Logo_2021_stacked.svg.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL CRIME HD",┃HR┃ RTL CRIME HD
+#EXTINF:-1 tvg-id=" RTL CRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Crime_Logo_2021_stacked.svg.png" group-title=" HRVATSKA" tvg-name=" RTL CRIME HD", RTL CRIME HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=878&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL LIVING HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Living_logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL LIVING HD",┃HR┃ RTL LIVING HD
+#EXTINF:-1 tvg-id=" RTL LIVING HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Living_logo.png" group-title=" HRVATSKA" tvg-name=" RTL LIVING HD", RTL LIVING HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=877&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL ADRIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Adria.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL ADRIA HD",┃HR┃ RTL ADRIA HD
+#EXTINF:-1 tvg-id=" RTL ADRIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL_Adria.png" group-title=" HRVATSKA" tvg-name=" RTL ADRIA HD", RTL ADRIA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559382&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ RTL KOCKICA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL-Kockica-Logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ RTL KOCKICA HD",┃HR┃ RTL KOCKICA HD
+#EXTINF:-1 tvg-id=" RTL KOCKICA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/RTL-Kockica-Logo.png" group-title=" HRVATSKA" tvg-name=" RTL KOCKICA HD", RTL KOCKICA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=876&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ POSAVINA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Posavina_TV.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ POSAVINA TV",┃HR┃ POSAVINA TV
+#EXTINF:-1 tvg-id=" POSAVINA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Posavina_TV.png" group-title=" HRVATSKA" tvg-name=" POSAVINA TV", POSAVINA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=875&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ Z1" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/z1.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ Z1",┃HR┃ Z1
+#EXTINF:-1 tvg-id=" Z1" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/z1.png" group-title=" HRVATSKA" tvg-name=" Z1", Z1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=874&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ N1" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/N1_logo.svg.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ N1",┃HR┃ N1
+#EXTINF:-1 tvg-id=" N1" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/N1_logo.svg.png" group-title=" HRVATSKA" tvg-name=" N1", N1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=873&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ DU TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/dutv.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ DU TV HD",┃HR┃ DU TV HD
+#EXTINF:-1 tvg-id=" DU TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/dutv.png" group-title=" HRVATSKA" tvg-name=" DU TV HD", DU TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559381&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ TV NOVA PULA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ TV NOVA PULA HD",┃HR┃ TV NOVA PULA HD
+#EXTINF:-1 tvg-id=" TV NOVA PULA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" HRVATSKA" tvg-name=" TV NOVA PULA HD", TV NOVA PULA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559380&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ VINKOVACKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/vinkovacka.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ VINKOVACKA TV",┃HR┃ VINKOVACKA TV
+#EXTINF:-1 tvg-id=" VINKOVACKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/vinkovacka.png" group-title=" HRVATSKA" tvg-name=" VINKOVACKA TV", VINKOVACKA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=872&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SLAVONSKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/slavonska.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ SLAVONSKA TV",┃HR┃ SLAVONSKA TV
+#EXTINF:-1 tvg-id=" SLAVONSKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/slavonska.png" group-title=" HRVATSKA" tvg-name=" SLAVONSKA TV", SLAVONSKA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=871&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ NARODNI TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Narodni_Logo_2.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ NARODNI TV",┃HR┃ NARODNI TV
+#EXTINF:-1 tvg-id=" NARODNI TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Narodni_Logo_2.png" group-title=" HRVATSKA" tvg-name=" NARODNI TV", NARODNI TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=870&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ LAUDATO TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/LaudatoTV.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ LAUDATO TV",┃HR┃ LAUDATO TV
+#EXTINF:-1 tvg-id=" LAUDATO TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/LaudatoTV.png" group-title=" HRVATSKA" tvg-name=" LAUDATO TV", LAUDATO TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=869&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ JABUKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Jabuka_TV.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ JABUKA TV",┃HR┃ JABUKA TV
+#EXTINF:-1 tvg-id=" JABUKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Jabuka_TV.png" group-title=" HRVATSKA" tvg-name=" JABUKA TV", JABUKA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=867&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ KANAL RI" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/kanalRi_logo_v3.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ KANAL RI",┃HR┃ KANAL RI
+#EXTINF:-1 tvg-id=" KANAL RI" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/kanalRi_logo_v3.png" group-title=" HRVATSKA" tvg-name=" KANAL RI", KANAL RI
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=865&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ LIBERTAS TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/LibertasTV.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ LIBERTAS TV",┃HR┃ LIBERTAS TV
+#EXTINF:-1 tvg-id=" LIBERTAS TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/LibertasTV.png" group-title=" HRVATSKA" tvg-name=" LIBERTAS TV", LIBERTAS TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=864&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ MREŽA ZAGREB" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/mreza-zg-tv.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ MREŽA ZAGREB",┃HR┃ MREŽA ZAGREB
+#EXTINF:-1 tvg-id=" MREŽA ZAGREB" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/mreza-zg-tv.png" group-title=" HRVATSKA" tvg-name=" MREŽA ZAGREB", MREŽA ZAGREB
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=863&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ MREŽA SPLIT" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/mreza-zg-tv.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ MREŽA SPLIT",┃HR┃ MREŽA SPLIT
+#EXTINF:-1 tvg-id=" MREŽA SPLIT" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/mreza-zg-tv.png" group-title=" HRVATSKA" tvg-name=" MREŽA SPLIT", MREŽA SPLIT
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=862&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ TV BANOVINA" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/tvbanovina.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ TV BANOVINA",┃HR┃ TV BANOVINA
+#EXTINF:-1 tvg-id=" TV BANOVINA" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/tvbanovina.png" group-title=" HRVATSKA" tvg-name=" TV BANOVINA", TV BANOVINA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=861&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ VTV TELEVIZIJA" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/VTV_televizija_Logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ VTV TELEVIZIJA",┃HR┃ VTV TELEVIZIJA
+#EXTINF:-1 tvg-id=" VTV TELEVIZIJA" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/VTV_televizija_Logo.png" group-title=" HRVATSKA" tvg-name=" VTV TELEVIZIJA", VTV TELEVIZIJA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=859&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ JADRAN TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Tv_jadran_logo.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ JADRAN TV",┃HR┃ JADRAN TV
+#EXTINF:-1 tvg-id=" JADRAN TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/Tv_jadran_logo.png" group-title=" HRVATSKA" tvg-name=" JADRAN TV", JADRAN TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=857&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SIBENIK TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/tv-sibenik.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ SIBENIK TV",┃HR┃ SIBENIK TV
+#EXTINF:-1 tvg-id=" SIBENIK TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/tv-sibenik.png" group-title=" HRVATSKA" tvg-name=" SIBENIK TV", SIBENIK TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=856&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ZDRAVA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/zdravatv.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ ZDRAVA TV",┃HR┃ ZDRAVA TV
+#EXTINF:-1 tvg-id=" ZDRAVA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/zdravatv.png" group-title=" HRVATSKA" tvg-name=" ZDRAVA TV", ZDRAVA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=854&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ POLJOPRIVREDNA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/poljoprivredna.png" group-title="┃HR┃ HRVATSKA" tvg-name="┃HR┃ POLJOPRIVREDNA TV",┃HR┃ POLJOPRIVREDNA TV
+#EXTINF:-1 tvg-id=" POLJOPRIVREDNA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/poljoprivredna.png" group-title=" HRVATSKA" tvg-name=" POLJOPRIVREDNA TV", POLJOPRIVREDNA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=853&extension=ts
 
-#EXTINF:-1 tvg-id="┃BA┃ BHT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BHT_1_logo.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ BHT HD",┃BA┃ BHT HD
+#EXTINF:-1 tvg-id=" BHT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BHT_1_logo.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" BHT HD", BHT HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=851&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ BHT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BHT_1_logo.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ BHT",┃BA┃ BHT
+#EXTINF:-1 tvg-id=" BHT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BHT_1_logo.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" BHT", BHT
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=850&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ BN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BN_TeleviziJA.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ BN HD",┃BA┃ BN HD
+#EXTINF:-1 tvg-id=" BN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BN_TeleviziJA.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" BN HD", BN HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=849&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ BN" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BN_TeleviziJA.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ BN",┃BA┃ BN
+#EXTINF:-1 tvg-id=" BN" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/BN_TeleviziJA.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" BN", BN
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=848&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ BN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_BN2.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ BN 2 HD",┃BA┃ BN 2 HD
+#EXTINF:-1 tvg-id=" BN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_BN2.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" BN 2 HD", BN 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559137&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ BN 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_BN2.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ BN 2",┃BA┃ BN 2
+#EXTINF:-1 tvg-id=" BN 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_BN2.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" BN 2", BN 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559138&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ FTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/FTV.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ FTV HD",┃BA┃ FTV HD
+#EXTINF:-1 tvg-id=" FTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/FTV.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" FTV HD", FTV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=847&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ FTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/FTV.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ FTV",┃BA┃ FTV
+#EXTINF:-1 tvg-id=" FTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/FTV.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" FTV", FTV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=846&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ OBN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/OBN-TV.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ OBN HD",┃BA┃ OBN HD
+#EXTINF:-1 tvg-id=" OBN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/OBN-TV.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" OBN HD", OBN HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=845&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ OBN" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/OBN-TV.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ OBN",┃BA┃ OBN
+#EXTINF:-1 tvg-id=" OBN" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/OBN-TV.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" OBN", OBN
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=844&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ N1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/N1.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ N1 HD",┃BA┃ N1 HD
+#EXTINF:-1 tvg-id=" N1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/N1.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" N1 HD", N1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=842&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ N1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/N1.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ N1",┃BA┃ N1
+#EXTINF:-1 tvg-id=" N1" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/N1.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" N1", N1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=841&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ RTRS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/RTRS_Logo.svg.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ RTRS",┃BA┃ RTRS
+#EXTINF:-1 tvg-id=" RTRS" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/RTRS_Logo.svg.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" RTRS", RTRS
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=840&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ RTRS+" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/RTRS_Logo.svg.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ RTRS+",┃BA┃ RTRS+
+#EXTINF:-1 tvg-id=" RTRS+" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/RTRS_Logo.svg.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" RTRS+", RTRS+
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=839&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ RTV NOVI PAZAR" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/RTV_Novi_Pazar.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ RTV NOVI PAZAR",┃BA┃ RTV NOVI PAZAR
+#EXTINF:-1 tvg-id=" RTV NOVI PAZAR" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/RTV_Novi_Pazar.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" RTV NOVI PAZAR", RTV NOVI PAZAR
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=837&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ RTV USK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_rtvusk.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ RTV USK HD",┃BA┃ RTV USK HD
+#EXTINF:-1 tvg-id=" RTV USK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_rtvusk.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" RTV USK HD", RTV USK HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=835&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ NOVA 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ NOVA 4K",┃BA┃ NOVA 4K
+#EXTINF:-1 tvg-id=" NOVA 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" NOVA 4K", NOVA 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=833&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ NOVA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ NOVA HD",┃BA┃ NOVA HD
+#EXTINF:-1 tvg-id=" NOVA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" NOVA HD", NOVA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=832&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ NOVA" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ NOVA",┃BA┃ NOVA
+#EXTINF:-1 tvg-id=" NOVA" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Nova_BH_logo_(2023).png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" NOVA", NOVA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=831&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYAT TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT-TV.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYAT TV 4K",┃BA┃ HAYAT TV 4K
+#EXTINF:-1 tvg-id=" HAYAT TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT-TV.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYAT TV 4K", HAYAT TV 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=830&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYAT TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT-TV.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYAT TV HD",┃BA┃ HAYAT TV HD
+#EXTINF:-1 tvg-id=" HAYAT TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT-TV.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYAT TV HD", HAYAT TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=829&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYAT PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Hayat_plus_800x450.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYAT PLUS HD",┃BA┃ HAYAT PLUS HD
+#EXTINF:-1 tvg-id=" HAYAT PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Hayat_plus_800x450.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYAT PLUS HD", HAYAT PLUS HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=828&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYAT FOLK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT_FOLK.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYAT FOLK HD",┃BA┃ HAYAT FOLK HD
+#EXTINF:-1 tvg-id=" HAYAT FOLK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT_FOLK.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYAT FOLK HD", HAYAT FOLK HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=826&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYAT MUSIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT_MUSIC.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYAT MUSIC HD",┃BA┃ HAYAT MUSIC HD
+#EXTINF:-1 tvg-id=" HAYAT MUSIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT_MUSIC.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYAT MUSIC HD", HAYAT MUSIC HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=824&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYAT MUSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT_MUSIC.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYAT MUSIC",┃BA┃ HAYAT MUSIC
+#EXTINF:-1 tvg-id=" HAYAT MUSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HAYAT_MUSIC.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYAT MUSIC", HAYAT MUSIC
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=823&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYATOVCI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Hayatovci.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYATOVCI HD",┃BA┃ HAYATOVCI HD
+#EXTINF:-1 tvg-id=" HAYATOVCI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Hayatovci.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYATOVCI HD", HAYATOVCI HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=822&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HAYATOVCI" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Hayatovci.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HAYATOVCI",┃BA┃ HAYATOVCI
+#EXTINF:-1 tvg-id=" HAYATOVCI" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Hayatovci.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HAYATOVCI", HAYATOVCI
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=821&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ FACE TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_FACE_TV_(Bosnia_and_Herzegovina).png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ FACE TV HD",┃BA┃ FACE TV HD
+#EXTINF:-1 tvg-id=" FACE TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_FACE_TV_(Bosnia_and_Herzegovina).png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" FACE TV HD", FACE TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=820&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ FACE TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_FACE_TV_(Bosnia_and_Herzegovina).png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ FACE TV",┃BA┃ FACE TV
+#EXTINF:-1 tvg-id=" FACE TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_FACE_TV_(Bosnia_and_Herzegovina).png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" FACE TV", FACE TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=819&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ O KANAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/0_kanal.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ O KANAL HD",┃BA┃ O KANAL HD
+#EXTINF:-1 tvg-id=" O KANAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/0_kanal.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" O KANAL HD", O KANAL HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=818&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ O KANAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/0_kanal.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ O KANAL",┃BA┃ O KANAL
+#EXTINF:-1 tvg-id=" O KANAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/0_kanal.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" O KANAL", O KANAL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559142&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ ATV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Atv_logo_2010.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ ATV HD",┃BA┃ ATV HD
+#EXTINF:-1 tvg-id=" ATV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Atv_logo_2010.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" ATV HD", ATV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=816&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ ATV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Atv_logo_2010.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ ATV",┃BA┃ ATV
+#EXTINF:-1 tvg-id=" ATV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Atv_logo_2010.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" ATV", ATV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=815&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ HIT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HIT_TV_logo.svg.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ HIT TV",┃BA┃ HIT TV
+#EXTINF:-1 tvg-id=" HIT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/HIT_TV_logo.svg.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" HIT TV", HIT TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=813&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ PODRINJE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/podrinje.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ PODRINJE HD",┃BA┃ PODRINJE HD
+#EXTINF:-1 tvg-id=" PODRINJE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/podrinje.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" PODRINJE HD", PODRINJE HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=811&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ TV SARAJEVO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/tvsarajevo.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ TV SARAJEVO HD",┃BA┃ TV SARAJEVO HD
+#EXTINF:-1 tvg-id=" TV SARAJEVO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/tvsarajevo.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" TV SARAJEVO HD", TV SARAJEVO HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=807&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ SANDZAK TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/sandzak.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ SANDZAK TV HD",┃BA┃ SANDZAK TV HD
+#EXTINF:-1 tvg-id=" SANDZAK TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/sandzak.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" SANDZAK TV HD", SANDZAK TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=806&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ RTV HB" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/BARTVHB.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ RTV HB",┃BA┃ RTV HB
+#EXTINF:-1 tvg-id=" RTV HB" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/BARTVHB.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" RTV HB", RTV HB
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=804&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ RTV TK" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_RTV_TK.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ RTV TK",┃BA┃ RTV TK
+#EXTINF:-1 tvg-id=" RTV TK" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_RTV_TK.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" RTV TK", RTV TK
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=803&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ AL JAZEERA BALKANS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Al_Jazeera_Balkans.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ AL JAZEERA BALKANS HD",┃BA┃ AL JAZEERA BALKANS HD
+#EXTINF:-1 tvg-id=" AL JAZEERA BALKANS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Al_Jazeera_Balkans.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" AL JAZEERA BALKANS HD", AL JAZEERA BALKANS HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=802&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ TELEVIZIJA 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/televizija5.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ TELEVIZIJA 5",┃BA┃ TELEVIZIJA 5
+#EXTINF:-1 tvg-id=" TELEVIZIJA 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/televizija5.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" TELEVIZIJA 5", TELEVIZIJA 5
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303429&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ IZVORNA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/izvorna_tv.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ IZVORNA TV HD",┃BA┃ IZVORNA TV HD
+#EXTINF:-1 tvg-id=" IZVORNA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/izvorna_tv.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" IZVORNA TV HD", IZVORNA TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=795&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ RTV SLON" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/rtvslon.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ RTV SLON",┃BA┃ RTV SLON
+#EXTINF:-1 tvg-id=" RTV SLON" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/rtvslon.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" RTV SLON", RTV SLON
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303437&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ CITY TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_CITY_TV.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ CITY TV",┃BA┃ CITY TV
+#EXTINF:-1 tvg-id=" CITY TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Logo_of_CITY_TV.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" CITY TV", CITY TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303435&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ UNA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/UNA_TV_HR_logo.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ UNA TV HD",┃BA┃ UNA TV HD
+#EXTINF:-1 tvg-id=" UNA TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/UNA_TV_HR_logo.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" UNA TV HD", UNA TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303422&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ SEVDAH TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/sevdahtv.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ SEVDAH TV",┃BA┃ SEVDAH TV
+#EXTINF:-1 tvg-id=" SEVDAH TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/sevdahtv.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" SEVDAH TV", SEVDAH TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=794&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ MTV IGMAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/MTV_Igman_Logo.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ MTV IGMAN",┃BA┃ MTV IGMAN
+#EXTINF:-1 tvg-id=" MTV IGMAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/MTV_Igman_Logo.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" MTV IGMAN", MTV IGMAN
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=791&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ TV5 ISLAM" tvg-logo="http://picon.tivi-ott.net:25461/picon/FINLAND/150px-TV5_Finland_logo_2019.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ TV5 ISLAM",┃BA┃ TV5 ISLAM
+#EXTINF:-1 tvg-id=" TV5 ISLAM" tvg-logo="http://picon.tivi-ott.net:25461/picon/FINLAND/150px-TV5_Finland_logo_2019.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" TV5 ISLAM", TV5 ISLAM
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=800&extension=ts
-#EXTINF:-1 tvg-id="┃BA┃ MEKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/meka.png" group-title="┃BA┃ BOSNA I HERCEGOVINA" tvg-name="┃BA┃ MEKA TV",┃BA┃ MEKA TV
+#EXTINF:-1 tvg-id=" MEKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/meka.png" group-title=" BOSNA I HERCEGOVINA" tvg-name=" MEKA TV", MEKA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=789&extension=ts
 
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB HD",┃HR┃ SPORT KLUB HD
+#EXTINF:-1 tvg-id=" SPORT KLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB HD", SPORT KLUB HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1109&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB 1 HD",┃HR┃ SPORT KLUB 1 HD
+#EXTINF:-1 tvg-id=" SPORT KLUB 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB 1 HD", SPORT KLUB 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1108&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB 2 HD",┃HR┃ SPORT KLUB 2 HD
+#EXTINF:-1 tvg-id=" SPORT KLUB 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB 2 HD", SPORT KLUB 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1107&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB 3 HD",┃HR┃ SPORT KLUB 3 HD
+#EXTINF:-1 tvg-id=" SPORT KLUB 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB 3 HD", SPORT KLUB 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1106&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB 4 HD",┃HR┃ SPORT KLUB 4 HD
+#EXTINF:-1 tvg-id=" SPORT KLUB 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB 4 HD", SPORT KLUB 4 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1105&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB 5 HD",┃HR┃ SPORT KLUB 5 HD
+#EXTINF:-1 tvg-id=" SPORT KLUB 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB 5 HD", SPORT KLUB 5 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1104&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB 6 HD",┃HR┃ SPORT KLUB 6 HD
+#EXTINF:-1 tvg-id=" SPORT KLUB 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB 6 HD", SPORT KLUB 6 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1103&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB GOLF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB GOLF HD",┃HR┃ SPORT KLUB GOLF HD
+#EXTINF:-1 tvg-id=" SPORT KLUB GOLF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB GOLF HD", SPORT KLUB GOLF HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1102&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORT KLUB FIGHT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORT KLUB FIGHT HD",┃HR┃ SPORT KLUB FIGHT HD
+#EXTINF:-1 tvg-id=" SPORT KLUB FIGHT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORT KLUB FIGHT HD", SPORT KLUB FIGHT HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559136&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ SPORTSKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="┃HR┃ SPORT KLUB" tvg-name="┃HR┃ SPORTSKA",┃HR┃ SPORTSKA
+#EXTINF:-1 tvg-id=" SPORTSKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title=" SPORT KLUB" tvg-name=" SPORTSKA", SPORTSKA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558968&extension=ts
 
-#EXTINF:-1 tvg-id="┃HR┃ MAX SPORT 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ MAX SPORT 1 4K",┃HR┃ MAX SPORT 1 4K
+#EXTINF:-1 tvg-id=" MAX SPORT 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" MAX SPORT 1 4K", MAX SPORT 1 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558965&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ MAX SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ MAX SPORT 1 HD",┃HR┃ MAX SPORT 1 HD
+#EXTINF:-1 tvg-id=" MAX SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" MAX SPORT 1 HD", MAX SPORT 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559133&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ MAX SPORT 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ MAX SPORT 2 4K",┃HR┃ MAX SPORT 2 4K
+#EXTINF:-1 tvg-id=" MAX SPORT 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" MAX SPORT 2 4K", MAX SPORT 2 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558966&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ MAX SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ MAX SPORT 2 HD",┃HR┃ MAX SPORT 2 HD
+#EXTINF:-1 tvg-id=" MAX SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" MAX SPORT 2 HD", MAX SPORT 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559134&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 1 HD",┃HR┃ ARENA SPORT 1 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 1 HD", ARENA SPORT 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1115&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 2 HD",┃HR┃ ARENA SPORT 2 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 2 HD", ARENA SPORT 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1114&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 3 HD",┃HR┃ ARENA SPORT 3 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 3 HD", ARENA SPORT 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1113&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 4 HD",┃HR┃ ARENA SPORT 4 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 4 HD", ARENA SPORT 4 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1112&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 5 HD",┃HR┃ ARENA SPORT 5 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 5 HD", ARENA SPORT 5 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1111&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 6 HD",┃HR┃ ARENA SPORT 6 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 6 HD", ARENA SPORT 6 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1110&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 7 HD",┃HR┃ ARENA SPORT 7 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 7 HD", ARENA SPORT 7 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558961&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 8 HD",┃HR┃ ARENA SPORT 8 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 8 HD", ARENA SPORT 8 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558962&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 9 HD",┃HR┃ ARENA SPORT 9 HD
+#EXTINF:-1 tvg-id=" ARENA SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 9 HD", ARENA SPORT 9 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558963&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA SPORT 10 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA SPORT 10 4K",┃HR┃ ARENA SPORT 10 4K
+#EXTINF:-1 tvg-id=" ARENA SPORT 10 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA SPORT 10 4K", ARENA SPORT 10 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558964&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA FIGHT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA FIGHT 4K",┃HR┃ ARENA FIGHT 4K
+#EXTINF:-1 tvg-id=" ARENA FIGHT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA FIGHT 4K", ARENA FIGHT 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558967&extension=ts
-#EXTINF:-1 tvg-id="┃HR┃ ARENA E SPORT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="┃HR┃ ARENA SPORT" tvg-name="┃HR┃ ARENA E SPORT 4K",┃HR┃ ARENA E SPORT 4K
+#EXTINF:-1 tvg-id=" ARENA E SPORT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title=" ARENA SPORT" tvg-name=" ARENA E SPORT 4K", ARENA E SPORT 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=558969&extension=ts
 
-#EXTINF:-1 tvg-id="┃EXYU┃ HBO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/HBO.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ HBO HD",┃EXYU┃ HBO HD
+#EXTINF:-1 tvg-id=" HBO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/HBO.png" group-title=" FILMOVI | SERIJE" tvg-name=" HBO HD", HBO HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1055&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ HBO 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/HBO.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ HBO 2 HD",┃EXYU┃ HBO 2 HD
+#EXTINF:-1 tvg-id=" HBO 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/HBO.png" group-title=" FILMOVI | SERIJE" tvg-name=" HBO 2 HD", HBO 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559158&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ HBO 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/HBO.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ HBO 3 HD",┃EXYU┃ HBO 3 HD
+#EXTINF:-1 tvg-id=" HBO 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/HBO.png" group-title=" FILMOVI | SERIJE" tvg-name=" HBO 3 HD", HBO 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559159&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINEMAX 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/CINEMAX.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINEMAX 1 HD",┃EXYU┃ CINEMAX 1 HD
+#EXTINF:-1 tvg-id=" CINEMAX 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/CINEMAX.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINEMAX 1 HD", CINEMAX 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1054&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINEMAX 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/CINEMAX.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINEMAX 2 HD",┃EXYU┃ CINEMAX 2 HD
+#EXTINF:-1 tvg-id=" CINEMAX 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/CINEMAX.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINEMAX 2 HD", CINEMAX 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1053&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINESTAR 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINESTAR 1 HD",┃EXYU┃ CINESTAR 1 HD
+#EXTINF:-1 tvg-id=" CINESTAR 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINESTAR 1 HD", CINESTAR 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1052&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINESTAR 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINESTAR 2 HD",┃EXYU┃ CINESTAR 2 HD
+#EXTINF:-1 tvg-id=" CINESTAR 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINESTAR 2 HD", CINESTAR 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559160&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINESTAR ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINESTAR ACTION HD",┃EXYU┃ CINESTAR ACTION HD
+#EXTINF:-1 tvg-id=" CINESTAR ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINESTAR ACTION HD", CINESTAR ACTION HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1051&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINESTAR FANTASY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINESTAR FANTASY HD",┃EXYU┃ CINESTAR FANTASY HD
+#EXTINF:-1 tvg-id=" CINESTAR FANTASY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINESTAR FANTASY HD", CINESTAR FANTASY HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1050&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINESTAR PREMIERE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINESTAR PREMIERE 1 HD",┃EXYU┃ CINESTAR PREMIERE 1 HD
+#EXTINF:-1 tvg-id=" CINESTAR PREMIERE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINESTAR PREMIERE 1 HD", CINESTAR PREMIERE 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1049&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINESTAR PREMIERE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINESTAR PREMIERE 2 HD",┃EXYU┃ CINESTAR PREMIERE 2 HD
+#EXTINF:-1 tvg-id=" CINESTAR PREMIERE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Cinestar.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINESTAR PREMIERE 2 HD", CINESTAR PREMIERE 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1048&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CINEMANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/cinemania.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ CINEMANIA",┃EXYU┃ CINEMANIA
+#EXTINF:-1 tvg-id=" CINEMANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/cinemania.png" group-title=" FILMOVI | SERIJE" tvg-name=" CINEMANIA", CINEMANIA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1046&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ SUPER STAR TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/SUPERSTARTV.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ SUPER STAR TV HD",┃EXYU┃ SUPER STAR TV HD
+#EXTINF:-1 tvg-id=" SUPER STAR TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/SUPERSTARTV.png" group-title=" FILMOVI | SERIJE" tvg-name=" SUPER STAR TV HD", SUPER STAR TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1047&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ SUPER STAR TV  2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/SUPERSTARTV.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ SUPER STAR TV  2 HD",┃EXYU┃ SUPER STAR TV  2 HD
+#EXTINF:-1 tvg-id=" SUPER STAR TV  2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/SUPERSTARTV.png" group-title=" FILMOVI | SERIJE" tvg-name=" SUPER STAR TV  2 HD", SUPER STAR TV  2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559162&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ NOVA CINEMA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Nova_Cinema.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ NOVA CINEMA HD",┃EXYU┃ NOVA CINEMA HD
+#EXTINF:-1 tvg-id=" NOVA CINEMA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Nova_Cinema.png" group-title=" FILMOVI | SERIJE" tvg-name=" NOVA CINEMA HD", NOVA CINEMA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559219&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ NOVA FAMILY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Nova_Family.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ NOVA FAMILY HD",┃EXYU┃ NOVA FAMILY HD
+#EXTINF:-1 tvg-id=" NOVA FAMILY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Nova_Family.png" group-title=" FILMOVI | SERIJE" tvg-name=" NOVA FAMILY HD", NOVA FAMILY HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559220&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ FILMBOX STARS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/filmbox-stars.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ FILMBOX STARS",┃EXYU┃ FILMBOX STARS
+#EXTINF:-1 tvg-id=" FILMBOX STARS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/filmbox-stars.png" group-title=" FILMOVI | SERIJE" tvg-name=" FILMBOX STARS", FILMBOX STARS
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559163&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ KLASIK TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Klasik_TV_logo.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ KLASIK TV HD",┃EXYU┃ KLASIK TV HD
+#EXTINF:-1 tvg-id=" KLASIK TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Klasik_TV_logo.png" group-title=" FILMOVI | SERIJE" tvg-name=" KLASIK TV HD", KLASIK TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1045&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ KINO TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/KinoTV-logo-black.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ KINO TV HD",┃EXYU┃ KINO TV HD
+#EXTINF:-1 tvg-id=" KINO TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/KinoTV-logo-black.png" group-title=" FILMOVI | SERIJE" tvg-name=" KINO TV HD", KINO TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1044&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ M1 FILM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/m1-tv.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ M1 FILM HD",┃EXYU┃ M1 FILM HD
+#EXTINF:-1 tvg-id=" M1 FILM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/m1-tv.png" group-title=" FILMOVI | SERIJE" tvg-name=" M1 FILM HD", M1 FILM HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559164&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ E! ENTERTAINMENT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/EENTERTAINMENT.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ E! ENTERTAINMENT HD",┃EXYU┃ E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id=" E! ENTERTAINMENT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/EENTERTAINMENT.png" group-title=" FILMOVI | SERIJE" tvg-name=" E! ENTERTAINMENT HD", E! ENTERTAINMENT HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1033&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ FOX CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXWORMARK.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ FOX CHANNEL HD",┃EXYU┃ FOX CHANNEL HD
+#EXTINF:-1 tvg-id=" FOX CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXWORMARK.png" group-title=" FILMOVI | SERIJE" tvg-name=" FOX CHANNEL HD", FOX CHANNEL HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1041&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ FOX MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXMOVIES.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ FOX MOVIES HD",┃EXYU┃ FOX MOVIES HD
+#EXTINF:-1 tvg-id=" FOX MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXMOVIES.png" group-title=" FILMOVI | SERIJE" tvg-name=" FOX MOVIES HD", FOX MOVIES HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1040&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ FOX CRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXCRIME.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ FOX CRIME HD",┃EXYU┃ FOX CRIME HD
+#EXTINF:-1 tvg-id=" FOX CRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXCRIME.png" group-title=" FILMOVI | SERIJE" tvg-name=" FOX CRIME HD", FOX CRIME HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1039&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ FOX LIFE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Fox_life_it.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ FOX LIFE HD",┃EXYU┃ FOX LIFE HD
+#EXTINF:-1 tvg-id=" FOX LIFE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Fox_life_it.png" group-title=" FILMOVI | SERIJE" tvg-name=" FOX LIFE HD", FOX LIFE HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1038&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ AXN ADRIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/AXN.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ AXN ADRIA HD",┃EXYU┃ AXN ADRIA HD
+#EXTINF:-1 tvg-id=" AXN ADRIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/AXN.png" group-title=" FILMOVI | SERIJE" tvg-name=" AXN ADRIA HD", AXN ADRIA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1037&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ AXN SPIN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/AXNSPIN.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ AXN SPIN HD",┃EXYU┃ AXN SPIN HD
+#EXTINF:-1 tvg-id=" AXN SPIN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/AXNSPIN.png" group-title=" FILMOVI | SERIJE" tvg-name=" AXN SPIN HD", AXN SPIN HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1036&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ AMC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/AMC.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ AMC HD",┃EXYU┃ AMC HD
+#EXTINF:-1 tvg-id=" AMC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/AMC.png" group-title=" FILMOVI | SERIJE" tvg-name=" AMC HD", AMC HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1035&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ SCI—FI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Sci_Fi_Universal.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ SCI—FI HD",┃EXYU┃ SCI—FI HD
+#EXTINF:-1 tvg-id=" SCI—FI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Sci_Fi_Universal.png" group-title=" FILMOVI | SERIJE" tvg-name=" SCI—FI HD", SCI—FI HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1034&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PICKBOX TV 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pickbox.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ PICKBOX TV 1 HD",┃EXYU┃ PICKBOX TV 1 HD
+#EXTINF:-1 tvg-id=" PICKBOX TV 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pickbox.png" group-title=" FILMOVI | SERIJE" tvg-name=" PICKBOX TV 1 HD", PICKBOX TV 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559165&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PICKBOX TV 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pickbox.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ PICKBOX TV 2 HD",┃EXYU┃ PICKBOX TV 2 HD
+#EXTINF:-1 tvg-id=" PICKBOX TV 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pickbox.png" group-title=" FILMOVI | SERIJE" tvg-name=" PICKBOX TV 2 HD", PICKBOX TV 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559166&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MAXCRO SELECT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ MAXCRO SELECT 1 HD",┃EXYU┃ MAXCRO SELECT 1 HD
+#EXTINF:-1 tvg-id=" MAXCRO SELECT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title=" FILMOVI | SERIJE" tvg-name=" MAXCRO SELECT 1 HD", MAXCRO SELECT 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559167&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MAXCRO SELECT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ MAXCRO SELECT 2 HD",┃EXYU┃ MAXCRO SELECT 2 HD
+#EXTINF:-1 tvg-id=" MAXCRO SELECT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title=" FILMOVI | SERIJE" tvg-name=" MAXCRO SELECT 2 HD", MAXCRO SELECT 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559168&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MAXCRO SELECT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ MAXCRO SELECT 3 HD",┃EXYU┃ MAXCRO SELECT 3 HD
+#EXTINF:-1 tvg-id=" MAXCRO SELECT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title=" FILMOVI | SERIJE" tvg-name=" MAXCRO SELECT 3 HD", MAXCRO SELECT 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559169&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MAXCRO SELECT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ MAXCRO SELECT 4 HD",┃EXYU┃ MAXCRO SELECT 4 HD
+#EXTINF:-1 tvg-id=" MAXCRO SELECT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title=" FILMOVI | SERIJE" tvg-name=" MAXCRO SELECT 4 HD", MAXCRO SELECT 4 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559170&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MAXCRO SELECT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ MAXCRO SELECT 5 HD",┃EXYU┃ MAXCRO SELECT 5 HD
+#EXTINF:-1 tvg-id=" MAXCRO SELECT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title=" FILMOVI | SERIJE" tvg-name=" MAXCRO SELECT 5 HD", MAXCRO SELECT 5 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559171&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MAXCRO SELECT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ MAXCRO SELECT 6 HD",┃EXYU┃ MAXCRO SELECT 6 HD
+#EXTINF:-1 tvg-id=" MAXCRO SELECT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title=" FILMOVI | SERIJE" tvg-name=" MAXCRO SELECT 6 HD", MAXCRO SELECT 6 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559212&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MAXCRO SELECT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title="┃EXYU┃ FILMOVI | SERIJE" tvg-name="┃EXYU┃ MAXCRO SELECT 7 HD",┃EXYU┃ MAXCRO SELECT 7 HD
+#EXTINF:-1 tvg-id=" MAXCRO SELECT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/maxcroselect.png" group-title=" FILMOVI | SERIJE" tvg-name=" MAXCRO SELECT 7 HD", MAXCRO SELECT 7 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559218&extension=ts
 
-#EXTINF:-1 tvg-id="┃RS┃ RTS 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS 1 4K",┃RS┃ RTS 1 4K
+#EXTINF:-1 tvg-id=" RTS 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS 1 4K", RTS 1 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=787&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS 1 HD",┃RS┃ RTS 1 HD
+#EXTINF:-1 tvg-id=" RTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS 1 HD", RTS 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=786&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS 2 4K",┃RS┃ RTS 2 4K
+#EXTINF:-1 tvg-id=" RTS 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS 2 4K", RTS 2 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=785&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS 2 HD",┃RS┃ RTS 2 HD
+#EXTINF:-1 tvg-id=" RTS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS 2 HD", RTS 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=784&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS 3 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS 3 4K",┃RS┃ RTS 3 4K
+#EXTINF:-1 tvg-id=" RTS 3 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS 3 4K", RTS 3 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=783&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS 3 HD",┃RS┃ RTS 3 HD
+#EXTINF:-1 tvg-id=" RTS 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS 3 HD", RTS 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=782&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS DRAMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS DRAMA",┃RS┃ RTS DRAMA
+#EXTINF:-1 tvg-id=" RTS DRAMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS DRAMA", RTS DRAMA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=781&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS TREZOR" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS TREZOR",┃RS┃ RTS TREZOR
+#EXTINF:-1 tvg-id=" RTS TREZOR" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS TREZOR", RTS TREZOR
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=780&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS SVET" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS SVET",┃RS┃ RTS SVET
+#EXTINF:-1 tvg-id=" RTS SVET" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS SVET", RTS SVET
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=779&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS ZIVOT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS ZIVOT",┃RS┃ RTS ZIVOT
+#EXTINF:-1 tvg-id=" RTS ZIVOT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS ZIVOT", RTS ZIVOT
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=778&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS POLETARAC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS POLETARAC",┃RS┃ RTS POLETARAC
+#EXTINF:-1 tvg-id=" RTS POLETARAC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS POLETARAC", RTS POLETARAC
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=777&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS KOLO" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS KOLO",┃RS┃ RTS KOLO
+#EXTINF:-1 tvg-id=" RTS KOLO" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS KOLO", RTS KOLO
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=776&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTS MUZIKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTS MUZIKA",┃RS┃ RTS MUZIKA
+#EXTINF:-1 tvg-id=" RTS MUZIKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTS_(Serbia)_blue_logo.png" group-title=" SRBIJA" tvg-name=" RTS MUZIKA", RTS MUZIKA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=775&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ B92 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/b92.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ B92 4K",┃RS┃ B92 4K
+#EXTINF:-1 tvg-id=" B92 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/b92.png" group-title=" SRBIJA" tvg-name=" B92 4K", B92 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=767&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ B92 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/b92.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ B92 HD",┃RS┃ B92 HD
+#EXTINF:-1 tvg-id=" B92 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/b92.png" group-title=" SRBIJA" tvg-name=" B92 HD", B92 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303339&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ N1 TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/N1_logo.svg.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ N1 TV HD",┃RS┃ N1 TV HD
+#EXTINF:-1 tvg-id=" N1 TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/N1_logo.svg.png" group-title=" SRBIJA" tvg-name=" N1 TV HD", N1 TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=760&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ NOVA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Nova_RS_2023.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ NOVA HD",┃RS┃ NOVA HD
+#EXTINF:-1 tvg-id=" NOVA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Nova_RS_2023.png" group-title=" SRBIJA" tvg-name=" NOVA HD", NOVA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=759&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ NOVA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Nova_RS_2023.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ NOVA",┃RS┃ NOVA
+#EXTINF:-1 tvg-id=" NOVA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Nova_RS_2023.png" group-title=" SRBIJA" tvg-name=" NOVA", NOVA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303343&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ HAPPY TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/happy.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ HAPPY TV HD",┃RS┃ HAPPY TV HD
+#EXTINF:-1 tvg-id=" HAPPY TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/happy.png" group-title=" SRBIJA" tvg-name=" HAPPY TV HD", HAPPY TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=764&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ HAPPY TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/happy.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ HAPPY TV",┃RS┃ HAPPY TV
+#EXTINF:-1 tvg-id=" HAPPY TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/happy.png" group-title=" SRBIJA" tvg-name=" HAPPY TV", HAPPY TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=763&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/prva.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA 4K",┃RS┃ PRVA 4K
+#EXTINF:-1 tvg-id=" PRVA 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/prva.png" group-title=" SRBIJA" tvg-name=" PRVA 4K", PRVA 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=774&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/prva.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA HD",┃RS┃ PRVA HD
+#EXTINF:-1 tvg-id=" PRVA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/prva.png" group-title=" SRBIJA" tvg-name=" PRVA HD", PRVA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303337&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_Plus_Logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA PLUS HD",┃RS┃ PRVA PLUS HD
+#EXTINF:-1 tvg-id=" PRVA PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_Plus_Logo.png" group-title=" SRBIJA" tvg-name=" PRVA PLUS HD", PRVA PLUS HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=773&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA MAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/prvamax.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA MAX HD",┃RS┃ PRVA MAX HD
+#EXTINF:-1 tvg-id=" PRVA MAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/prvamax.png" group-title=" SRBIJA" tvg-name=" PRVA MAX HD", PRVA MAX HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=772&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA KICK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/PRVA-KICK.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA KICK HD",┃RS┃ PRVA KICK HD
+#EXTINF:-1 tvg-id=" PRVA KICK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/PRVA-KICK.png" group-title=" SRBIJA" tvg-name=" PRVA KICK HD", PRVA KICK HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=771&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA WORLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_World.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA WORLD HD",┃RS┃ PRVA WORLD HD
+#EXTINF:-1 tvg-id=" PRVA WORLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_World.png" group-title=" SRBIJA" tvg-name=" PRVA WORLD HD", PRVA WORLD HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=770&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA FILES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_Files_29.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA FILES HD",┃RS┃ PRVA FILES HD
+#EXTINF:-1 tvg-id=" PRVA FILES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_Files_29.png" group-title=" SRBIJA" tvg-name=" PRVA FILES HD", PRVA FILES HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=769&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ PRVA LIFE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_Life.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ PRVA LIFE HD",┃RS┃ PRVA LIFE HD
+#EXTINF:-1 tvg-id=" PRVA LIFE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Prva_Life.png" group-title=" SRBIJA" tvg-name=" PRVA LIFE HD", PRVA LIFE HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=768&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTV VOJVODINA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/rtvvojvodina.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTV VOJVODINA 1",┃RS┃ RTV VOJVODINA 1
+#EXTINF:-1 tvg-id=" RTV VOJVODINA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/rtvvojvodina.png" group-title=" SRBIJA" tvg-name=" RTV VOJVODINA 1", RTV VOJVODINA 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=766&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTV VOJVODINA 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/rtvvojvodina.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTV VOJVODINA 2",┃RS┃ RTV VOJVODINA 2
+#EXTINF:-1 tvg-id=" RTV VOJVODINA 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/rtvvojvodina.png" group-title=" SRBIJA" tvg-name=" RTV VOJVODINA 2", RTV VOJVODINA 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=765&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ EURONEWS SERBIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/euronewsserbia.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ EURONEWS SERBIA",┃RS┃ EURONEWS SERBIA
+#EXTINF:-1 tvg-id=" EURONEWS SERBIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/euronewsserbia.png" group-title=" SRBIJA" tvg-name=" EURONEWS SERBIA", EURONEWS SERBIA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559377&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ INFORMER TV HD" tvg-logo="" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ INFORMER TV HD",┃RS┃ INFORMER TV HD
+#EXTINF:-1 tvg-id=" INFORMER TV HD" tvg-logo="" group-title=" SRBIJA" tvg-name=" INFORMER TV HD", INFORMER TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1351249&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ INSAJDER TV HD" tvg-logo="" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ INSAJDER TV HD",┃RS┃ INSAJDER TV HD
+#EXTINF:-1 tvg-id=" INSAJDER TV HD" tvg-logo="" group-title=" SRBIJA" tvg-name=" INSAJDER TV HD", INSAJDER TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1351250&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ K1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/K1.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ K1 HD",┃RS┃ K1 HD
+#EXTINF:-1 tvg-id=" K1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/K1.png" group-title=" SRBIJA" tvg-name=" K1 HD", K1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559378&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ AGRO TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Agro_TVsrb.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ AGRO TV HD",┃RS┃ AGRO TV HD
+#EXTINF:-1 tvg-id=" AGRO TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Agro_TVsrb.png" group-title=" SRBIJA" tvg-name=" AGRO TV HD", AGRO TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303353&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ KURIR TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Kurir_televizija.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ KURIR TV",┃RS┃ KURIR TV
+#EXTINF:-1 tvg-id=" KURIR TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Kurir_televizija.png" group-title=" SRBIJA" tvg-name=" KURIR TV", KURIR TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303351&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ RTV PALMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/rtvpalma.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ RTV PALMA",┃RS┃ RTV PALMA
+#EXTINF:-1 tvg-id=" RTV PALMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/rtvpalma.png" group-title=" SRBIJA" tvg-name=" RTV PALMA", RTV PALMA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303350&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ TV LESKOVAC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/tvleskovac.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ TV LESKOVAC",┃RS┃ TV LESKOVAC
+#EXTINF:-1 tvg-id=" TV LESKOVAC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/tvleskovac.png" group-title=" SRBIJA" tvg-name=" TV LESKOVAC", TV LESKOVAC
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303349&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ SOS KANAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/soskanal.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ SOS KANAL",┃RS┃ SOS KANAL
+#EXTINF:-1 tvg-id=" SOS KANAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/soskanal.png" group-title=" SRBIJA" tvg-name=" SOS KANAL", SOS KANAL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303348&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ NOVI PAZAR TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTV_Novi_Pazar.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ NOVI PAZAR TV",┃RS┃ NOVI PAZAR TV
+#EXTINF:-1 tvg-id=" NOVI PAZAR TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/RTV_Novi_Pazar.png" group-title=" SRBIJA" tvg-name=" NOVI PAZAR TV", NOVI PAZAR TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303347&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ BLIC TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/blic-tv-logo.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ BLIC TV HD",┃RS┃ BLIC TV HD
+#EXTINF:-1 tvg-id=" BLIC TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/blic-tv-logo.png" group-title=" SRBIJA" tvg-name=" BLIC TV HD", BLIC TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303346&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ TV ISTOK" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/tvistok.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ TV ISTOK",┃RS┃ TV ISTOK
+#EXTINF:-1 tvg-id=" TV ISTOK" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/tvistok.png" group-title=" SRBIJA" tvg-name=" TV ISTOK", TV ISTOK
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303345&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ HRAM TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/TV-Hram.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ HRAM TV",┃RS┃ HRAM TV
+#EXTINF:-1 tvg-id=" HRAM TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/TV-Hram.png" group-title=" SRBIJA" tvg-name=" HRAM TV", HRAM TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=303344&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ STUDIO B" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/studiob.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ STUDIO B",┃RS┃ STUDIO B
+#EXTINF:-1 tvg-id=" STUDIO B" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/studiob.png" group-title=" SRBIJA" tvg-name=" STUDIO B", STUDIO B
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559375&extension=ts
-#EXTINF:-1 tvg-id="┃RS┃ TANJUG" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/tanjug.png" group-title="┃RS┃ SRBIJA" tvg-name="┃RS┃ TANJUG",┃RS┃ TANJUG
+#EXTINF:-1 tvg-id=" TANJUG" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/tanjug.png" group-title=" SRBIJA" tvg-name=" TANJUG", TANJUG
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559374&extension=ts
 
-#EXTINF:-1 tvg-id="┃EXYU┃ NATIONAL GEOGRAPHIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/NG.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ NATIONAL GEOGRAPHIC",┃EXYU┃ NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/NG.png" group-title=" DOKUMENTARNI" tvg-name=" NATIONAL GEOGRAPHIC", NATIONAL GEOGRAPHIC
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1079&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/NGC.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ NATIONAL GEOGRAPHIC WILD HD",┃EXYU┃ NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/NGC.png" group-title=" DOKUMENTARNI" tvg-name=" NATIONAL GEOGRAPHIC WILD HD", NATIONAL GEOGRAPHIC WILD HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1078&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ DISCOVERY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/discoverychannel.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ DISCOVERY CHANNEL",┃EXYU┃ DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id=" DISCOVERY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/discoverychannel.png" group-title=" DOKUMENTARNI" tvg-name=" DISCOVERY CHANNEL", DISCOVERY CHANNEL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1077&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CRIME & INVESTIGATION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/crimeandinvestigation.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ CRIME & INVESTIGATION HD",┃EXYU┃ CRIME & INVESTIGATION HD
+#EXTINF:-1 tvg-id=" CRIME & INVESTIGATION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/crimeandinvestigation.png" group-title=" DOKUMENTARNI" tvg-name=" CRIME & INVESTIGATION HD", CRIME & INVESTIGATION HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1075&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ INVESTIGATION DISCOVERY " tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/InvestigationDiscovery.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ INVESTIGATION DISCOVERY ",┃EXYU┃ INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id=" INVESTIGATION DISCOVERY " tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/InvestigationDiscovery.png" group-title=" DOKUMENTARNI" tvg-name=" INVESTIGATION DISCOVERY ", INVESTIGATION DISCOVERY
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1074&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ HISTORY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/History_Logo.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ HISTORY CHANNEL",┃EXYU┃ HISTORY CHANNEL
+#EXTINF:-1 tvg-id=" HISTORY CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/History_Logo.png" group-title=" DOKUMENTARNI" tvg-name=" HISTORY CHANNEL", HISTORY CHANNEL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1073&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ HISTORY CHANNEL 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/History_Logo.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ HISTORY CHANNEL 2",┃EXYU┃ HISTORY CHANNEL 2
+#EXTINF:-1 tvg-id=" HISTORY CHANNEL 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/History_Logo.png" group-title=" DOKUMENTARNI" tvg-name=" HISTORY CHANNEL 2", HISTORY CHANNEL 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1072&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ VIASAT HISTORY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Viasat_History.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ VIASAT HISTORY",┃EXYU┃ VIASAT HISTORY
+#EXTINF:-1 tvg-id=" VIASAT HISTORY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Viasat_History.png" group-title=" DOKUMENTARNI" tvg-name=" VIASAT HISTORY", VIASAT HISTORY
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1071&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ VIASAT EXPLORE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Viasat_Explorer.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ VIASAT EXPLORE",┃EXYU┃ VIASAT EXPLORE
+#EXTINF:-1 tvg-id=" VIASAT EXPLORE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Viasat_Explorer.png" group-title=" DOKUMENTARNI" tvg-name=" VIASAT EXPLORE", VIASAT EXPLORE
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1070&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ VIASAT NATURE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Viasat_Nature.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ VIASAT NATURE",┃EXYU┃ VIASAT NATURE
+#EXTINF:-1 tvg-id=" VIASAT NATURE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Viasat_Nature.png" group-title=" DOKUMENTARNI" tvg-name=" VIASAT NATURE", VIASAT NATURE
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1069&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ BALKAN TRIP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/hominid-balkan_trip-visual_identity.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ BALKAN TRIP HD",┃EXYU┃ BALKAN TRIP HD
+#EXTINF:-1 tvg-id=" BALKAN TRIP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/hominid-balkan_trip-visual_identity.png" group-title=" DOKUMENTARNI" tvg-name=" BALKAN TRIP HD", BALKAN TRIP HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=181721&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ ANIMAL PLANET" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ANIMALPLANET.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ ANIMAL PLANET",┃EXYU┃ ANIMAL PLANET
+#EXTINF:-1 tvg-id=" ANIMAL PLANET" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ANIMALPLANET.png" group-title=" DOKUMENTARNI" tvg-name=" ANIMAL PLANET", ANIMAL PLANET
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1068&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ 24KITCHEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/24Kitchen.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ 24KITCHEN HD",┃EXYU┃ 24KITCHEN HD
+#EXTINF:-1 tvg-id=" 24KITCHEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/24Kitchen.png" group-title=" DOKUMENTARNI" tvg-name=" 24KITCHEN HD", 24KITCHEN HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1066&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ FOOD NETWORK" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Food.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ FOOD NETWORK",┃EXYU┃ FOOD NETWORK
+#EXTINF:-1 tvg-id=" FOOD NETWORK" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Food.png" group-title=" DOKUMENTARNI" tvg-name=" FOOD NETWORK", FOOD NETWORK
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1065&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ DOCU BOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/docubox-logo.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ DOCU BOX",┃EXYU┃ DOCU BOX
+#EXTINF:-1 tvg-id=" DOCU BOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/docubox-logo.png" group-title=" DOKUMENTARNI" tvg-name=" DOCU BOX", DOCU BOX
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1063&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ DA VINCI LEARNING" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Da_Vinci.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ DA VINCI LEARNING",┃EXYU┃ DA VINCI LEARNING
+#EXTINF:-1 tvg-id=" DA VINCI LEARNING" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Da_Vinci.png" group-title=" DOKUMENTARNI" tvg-name=" DA VINCI LEARNING", DA VINCI LEARNING
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1061&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ LOVE I RIBOLOV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/LOV_I_RIBOLOV.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ LOVE I RIBOLOV HD",┃EXYU┃ LOVE I RIBOLOV HD
+#EXTINF:-1 tvg-id=" LOVE I RIBOLOV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/LOV_I_RIBOLOV.png" group-title=" DOKUMENTARNI" tvg-name=" LOVE I RIBOLOV HD", LOVE I RIBOLOV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1060&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ TRAVEL CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/TRAVELCHANNEL.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ TRAVEL CHANNEL",┃EXYU┃ TRAVEL CHANNEL
+#EXTINF:-1 tvg-id=" TRAVEL CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/TRAVELCHANNEL.png" group-title=" DOKUMENTARNI" tvg-name=" TRAVEL CHANNEL", TRAVEL CHANNEL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1059&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ TLC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/TLC.png" group-title="┃EXYU┃ DOKUMENTARNI" tvg-name="┃EXYU┃ TLC",┃EXYU┃ TLC
+#EXTINF:-1 tvg-id=" TLC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/TLC.png" group-title=" DOKUMENTARNI" tvg-name=" TLC", TLC
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1057&extension=ts
 
-#EXTINF:-1 tvg-id="┃EXYU┃ GRAND TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Grand_Tv.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ GRAND TV",┃EXYU┃ GRAND TV
+#EXTINF:-1 tvg-id=" GRAND TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Grand_Tv.png" group-title=" MUZIKA" tvg-name=" GRAND TV", GRAND TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1212&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ BN MUSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/bn-music-tv-bijeljina-logo.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ BN MUSIC",┃EXYU┃ BN MUSIC
+#EXTINF:-1 tvg-id=" BN MUSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/bn-music-tv-bijeljina-logo.png" group-title=" MUZIKA" tvg-name=" BN MUSIC", BN MUSIC
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1210&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ DM SAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/DMSAT.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ DM SAT",┃EXYU┃ DM SAT
+#EXTINF:-1 tvg-id=" DM SAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/DMSAT.png" group-title=" MUZIKA" tvg-name=" DM SAT", DM SAT
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1209&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ IDJ TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/idjtv.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ IDJ TV HD",┃EXYU┃ IDJ TV HD
+#EXTINF:-1 tvg-id=" IDJ TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/idjtv.png" group-title=" MUZIKA" tvg-name=" IDJ TV HD", IDJ TV HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1208&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ BALKANIKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Balkanika-tv.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ BALKANIKA TV",┃EXYU┃ BALKANIKA TV
+#EXTINF:-1 tvg-id=" BALKANIKA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Balkanika-tv.png" group-title=" MUZIKA" tvg-name=" BALKANIKA TV", BALKANIKA TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1206&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ OTV VALENTINO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/otvvalentino.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ OTV VALENTINO",┃EXYU┃ OTV VALENTINO
+#EXTINF:-1 tvg-id=" OTV VALENTINO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/otvvalentino.png" group-title=" MUZIKA" tvg-name=" OTV VALENTINO", OTV VALENTINO
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1207&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ CMC TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/CMC.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ CMC TV",┃EXYU┃ CMC TV
+#EXTINF:-1 tvg-id=" CMC TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/CMC.png" group-title=" MUZIKA" tvg-name=" CMC TV", CMC TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559364&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ SEVDAH TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/sevdahtv.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ SEVDAH TV",┃EXYU┃ SEVDAH TV
+#EXTINF:-1 tvg-id=" SEVDAH TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/sevdahtv.png" group-title=" MUZIKA" tvg-name=" SEVDAH TV", SEVDAH TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559365&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ DOBRA MUZICKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/dobramuzicka.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ DOBRA MUZICKA",┃EXYU┃ DOBRA MUZICKA
+#EXTINF:-1 tvg-id=" DOBRA MUZICKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/dobramuzicka.png" group-title=" MUZIKA" tvg-name=" DOBRA MUZICKA", DOBRA MUZICKA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559362&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ JUGOTON TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Jugoton_logo.svg.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ JUGOTON TV",┃EXYU┃ JUGOTON TV
+#EXTINF:-1 tvg-id=" JUGOTON TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Jugoton_logo.svg.png" group-title=" MUZIKA" tvg-name=" JUGOTON TV", JUGOTON TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559363&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK HITS  1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ PINK HITS  1",┃EXYU┃ PINK HITS  1
+#EXTINF:-1 tvg-id=" PINK HITS  1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" MUZIKA" tvg-name=" PINK HITS  1", PINK HITS  1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559369&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK HITS  2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ PINK HITS  2",┃EXYU┃ PINK HITS  2
+#EXTINF:-1 tvg-id=" PINK HITS  2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" MUZIKA" tvg-name=" PINK HITS  2", PINK HITS  2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559370&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK FOLK  1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ PINK FOLK  1",┃EXYU┃ PINK FOLK  1
+#EXTINF:-1 tvg-id=" PINK FOLK  1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" MUZIKA" tvg-name=" PINK FOLK  1", PINK FOLK  1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559367&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK FOLK  2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ PINK FOLK  2",┃EXYU┃ PINK FOLK  2
+#EXTINF:-1 tvg-id=" PINK FOLK  2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" MUZIKA" tvg-name=" PINK FOLK  2", PINK FOLK  2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559368&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK BRAVO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ PINK BRAVO",┃EXYU┃ PINK BRAVO
+#EXTINF:-1 tvg-id=" PINK BRAVO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" MUZIKA" tvg-name=" PINK BRAVO", PINK BRAVO
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559366&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK  KONCERT" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ PINK  KONCERT",┃EXYU┃ PINK  KONCERT
+#EXTINF:-1 tvg-id=" PINK  KONCERT" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" MUZIKA" tvg-name=" PINK  KONCERT", PINK  KONCERT
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559371&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ KCN 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/kcn.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ KCN 1 HD",┃EXYU┃ KCN 1 HD
+#EXTINF:-1 tvg-id=" KCN 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/kcn.png" group-title=" MUZIKA" tvg-name=" KCN 1 HD", KCN 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1205&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ KCN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/kcn.png" group-title="┃EXYU┃ MUZIKA" tvg-name="┃EXYU┃ KCN 3 HD",┃EXYU┃ KCN 3 HD
+#EXTINF:-1 tvg-id=" KCN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/kcn.png" group-title=" MUZIKA" tvg-name=" KCN 3 HD", KCN 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1203&extension=ts
 
-#EXTINF:-1 tvg-id="┃EXYU┃NICKELODEON HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/NICKELODEON.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃NICKELODEON HD",┃EXYU┃NICKELODEON HD
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/NICKELODEON.png" group-title=" DJECA" tvg-name="NICKELODEON HD",NICKELODEON HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559240&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃NICK JR." tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Nick_Jr.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃NICK JR.",┃EXYU┃NICK JR.
+#EXTINF:-1 tvg-id="NICK JR." tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Nick_Jr.png" group-title=" DJECA" tvg-name="NICK JR.",NICK JR.
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559241&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ RTL KOCKICA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Logo_rtl_kockica.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃ RTL KOCKICA HD",┃EXYU┃ RTL KOCKICA HD
+#EXTINF:-1 tvg-id=" RTL KOCKICA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Logo_rtl_kockica.png" group-title=" DJECA" tvg-name=" RTL KOCKICA HD", RTL KOCKICA HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559248&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SUPER  KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃ PINK SUPER  KIDS",┃EXYU┃ PINK SUPER  KIDS
+#EXTINF:-1 tvg-id=" PINK SUPER  KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" DJECA" tvg-name=" PINK SUPER  KIDS", PINK SUPER  KIDS
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559250&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ BABY TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/LogoBabyTV.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃ BABY TV",┃EXYU┃ BABY TV
+#EXTINF:-1 tvg-id=" BABY TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/LogoBabyTV.png" group-title=" DJECA" tvg-name=" BABY TV", BABY TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559247&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PIKABOO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pikaboo.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃ PIKABOO",┃EXYU┃ PIKABOO
+#EXTINF:-1 tvg-id=" PIKABOO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pikaboo.png" group-title=" DJECA" tvg-name=" PIKABOO", PIKABOO
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559245&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MINIMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/MinimaxLogo2013.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃ MINIMAX",┃EXYU┃ MINIMAX
+#EXTINF:-1 tvg-id=" MINIMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/MinimaxLogo2013.png" group-title=" DJECA" tvg-name=" MINIMAX", MINIMAX
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559246&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ MINI TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Logo_Mini_TV.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃ MINI TV",┃EXYU┃ MINI TV
+#EXTINF:-1 tvg-id=" MINI TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Logo_Mini_TV.png" group-title=" DJECA" tvg-name=" MINI TV", MINI TV
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559251&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ HAYATOVCI" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Hayatovci.png" group-title="┃EXYU┃ DJECA" tvg-name="┃EXYU┃ HAYATOVCI",┃EXYU┃ HAYATOVCI
+#EXTINF:-1 tvg-id=" HAYATOVCI" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Hayatovci.png" group-title=" DJECA" tvg-name=" HAYATOVCI", HAYATOVCI
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559252&extension=ts
 
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK HD",┃EXYU┃ PINK HD
+#EXTINF:-1 tvg-id=" PINK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK HD", PINK HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1023&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK",┃EXYU┃ PINK
+#EXTINF:-1 tvg-id=" PINK" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK", PINK
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1022&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ RED TV (PINK 2)" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ RED TV (PINK 2)",┃EXYU┃ RED TV (PINK 2)
+#EXTINF:-1 tvg-id=" RED TV (PINK 2)" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" RED TV (PINK 2)", RED TV (PINK 2)
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1021&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK 3 INFO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK 3 INFO",┃EXYU┃ PINK 3 INFO
+#EXTINF:-1 tvg-id=" PINK 3 INFO" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK 3 INFO", PINK 3 INFO
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1020&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK BH" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK BH",┃EXYU┃ PINK BH
+#EXTINF:-1 tvg-id=" PINK BH" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK BH", PINK BH
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1019&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK M" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK M",┃EXYU┃ PINK M
+#EXTINF:-1 tvg-id=" PINK M" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK M", PINK M
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1018&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK PLUS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK PLUS",┃EXYU┃ PINK PLUS
+#EXTINF:-1 tvg-id=" PINK PLUS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK PLUS", PINK PLUS
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1017&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK EXTRA",┃EXYU┃ PINK EXTRA
+#EXTINF:-1 tvg-id=" PINK EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK EXTRA", PINK EXTRA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1016&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK ACTION",┃EXYU┃ PINK ACTION
+#EXTINF:-1 tvg-id=" PINK ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK ACTION", PINK ACTION
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1015&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK COMEDY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK COMEDY",┃EXYU┃ PINK COMEDY
+#EXTINF:-1 tvg-id=" PINK COMEDY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK COMEDY", PINK COMEDY
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1014&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK CLASSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK CLASSIC",┃EXYU┃ PINK CLASSIC
+#EXTINF:-1 tvg-id=" PINK CLASSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK CLASSIC", PINK CLASSIC
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1013&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK THRILLER" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK THRILLER",┃EXYU┃ PINK THRILLER
+#EXTINF:-1 tvg-id=" PINK THRILLER" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK THRILLER", PINK THRILLER
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1012&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK CRIME & MYSTERY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK CRIME & MYSTERY",┃EXYU┃ PINK CRIME & MYSTERY
+#EXTINF:-1 tvg-id=" PINK CRIME & MYSTERY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK CRIME & MYSTERY", PINK CRIME & MYSTERY
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1011&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SCI FI & FANTASY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK SCI FI & FANTASY",┃EXYU┃ PINK SCI FI & FANTASY
+#EXTINF:-1 tvg-id=" PINK SCI FI & FANTASY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK SCI FI & FANTASY", PINK SCI FI & FANTASY
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1010&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK WORLD CINEMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK WORLD CINEMA",┃EXYU┃ PINK WORLD CINEMA
+#EXTINF:-1 tvg-id=" PINK WORLD CINEMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK WORLD CINEMA", PINK WORLD CINEMA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1009&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK FAMILY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK FAMILY",┃EXYU┃ PINK FAMILY
+#EXTINF:-1 tvg-id=" PINK FAMILY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK FAMILY", PINK FAMILY
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1008&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK FILM" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK FILM",┃EXYU┃ PINK FILM
+#EXTINF:-1 tvg-id=" PINK FILM" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK FILM", PINK FILM
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1007&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK HORROR" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK HORROR",┃EXYU┃ PINK HORROR
+#EXTINF:-1 tvg-id=" PINK HORROR" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK HORROR", PINK HORROR
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1006&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK WESTERN" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK WESTERN",┃EXYU┃ PINK WESTERN
+#EXTINF:-1 tvg-id=" PINK WESTERN" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK WESTERN", PINK WESTERN
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1005&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK MOVIES",┃EXYU┃ PINK MOVIES
+#EXTINF:-1 tvg-id=" PINK MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK MOVIES", PINK MOVIES
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1004&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK PREMIUM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK PREMIUM HD",┃EXYU┃ PINK PREMIUM HD
+#EXTINF:-1 tvg-id=" PINK PREMIUM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK PREMIUM HD", PINK PREMIUM HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1003&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK PREMIUM" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK PREMIUM",┃EXYU┃ PINK PREMIUM
+#EXTINF:-1 tvg-id=" PINK PREMIUM" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK PREMIUM", PINK PREMIUM
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1002&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK ROMANCE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK ROMANCE",┃EXYU┃ PINK ROMANCE
+#EXTINF:-1 tvg-id=" PINK ROMANCE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK ROMANCE", PINK ROMANCE
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1001&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SERIJE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK SERIJE HD",┃EXYU┃ PINK SERIJE HD
+#EXTINF:-1 tvg-id=" PINK SERIJE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK SERIJE HD", PINK SERIJE HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=998&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SERIJE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK SERIJE",┃EXYU┃ PINK SERIJE
+#EXTINF:-1 tvg-id=" PINK SERIJE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK SERIJE", PINK SERIJE
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=997&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SOAP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK SOAP HD",┃EXYU┃ PINK SOAP HD
+#EXTINF:-1 tvg-id=" PINK SOAP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK SOAP HD", PINK SOAP HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=996&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SOAP" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK SOAP",┃EXYU┃ PINK SOAP
+#EXTINF:-1 tvg-id=" PINK SOAP" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK SOAP", PINK SOAP
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=995&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK KIDS",┃EXYU┃ PINK KIDS
+#EXTINF:-1 tvg-id=" PINK KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK KIDS", PINK KIDS
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=990&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SUPER KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK SUPER KIDS",┃EXYU┃ PINK SUPER KIDS
+#EXTINF:-1 tvg-id=" PINK SUPER KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK SUPER KIDS", PINK SUPER KIDS
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=989&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK WORLD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK WORLD",┃EXYU┃ PINK WORLD
+#EXTINF:-1 tvg-id=" PINK WORLD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK WORLD", PINK WORLD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=988&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK PEDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK PEDIA",┃EXYU┃ PINK PEDIA
+#EXTINF:-1 tvg-id=" PINK PEDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK PEDIA", PINK PEDIA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=987&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK STYLE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK STYLE",┃EXYU┃ PINK STYLE
+#EXTINF:-1 tvg-id=" PINK STYLE" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK STYLE", PINK STYLE
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=986&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK HAHA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK HAHA",┃EXYU┃ PINK HAHA
+#EXTINF:-1 tvg-id=" PINK HAHA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK HAHA", PINK HAHA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=985&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK SHOW" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK SHOW",┃EXYU┃ PINK SHOW
+#EXTINF:-1 tvg-id=" PINK SHOW" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK SHOW", PINK SHOW
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=984&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK ZABAVA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK ZABAVA",┃EXYU┃ PINK ZABAVA
+#EXTINF:-1 tvg-id=" PINK ZABAVA" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK ZABAVA", PINK ZABAVA
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=983&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK KUVAR" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK KUVAR",┃EXYU┃ PINK KUVAR
+#EXTINF:-1 tvg-id=" PINK KUVAR" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK KUVAR", PINK KUVAR
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=982&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK LOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK LOL",┃EXYU┃ PINK LOL
+#EXTINF:-1 tvg-id=" PINK LOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK LOL", PINK LOL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=981&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK MUSIC 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK MUSIC 1",┃EXYU┃ PINK MUSIC 1
+#EXTINF:-1 tvg-id=" PINK MUSIC 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK MUSIC 1", PINK MUSIC 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=980&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK MUSIC 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK MUSIC 2",┃EXYU┃ PINK MUSIC 2
+#EXTINF:-1 tvg-id=" PINK MUSIC 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK MUSIC 2", PINK MUSIC 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=979&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK FOLK 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK FOLK 1",┃EXYU┃ PINK FOLK 1
+#EXTINF:-1 tvg-id=" PINK FOLK 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK FOLK 1", PINK FOLK 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=978&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK FOLK 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK FOLK 2",┃EXYU┃ PINK FOLK 2
+#EXTINF:-1 tvg-id=" PINK FOLK 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK FOLK 2", PINK FOLK 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=977&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK HITS 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK HITS 1",┃EXYU┃ PINK HITS 1
+#EXTINF:-1 tvg-id=" PINK HITS 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK HITS 1", PINK HITS 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=976&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK HITS 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK HITS 2",┃EXYU┃ PINK HITS 2
+#EXTINF:-1 tvg-id=" PINK HITS 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK HITS 2", PINK HITS 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=975&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK N ROLL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK N ROLL",┃EXYU┃ PINK N ROLL
+#EXTINF:-1 tvg-id=" PINK N ROLL" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK N ROLL", PINK N ROLL
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=974&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK KONCERT" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ PINK" tvg-name="┃EXYU┃ PINK KONCERT",┃EXYU┃ PINK KONCERT
+#EXTINF:-1 tvg-id=" PINK KONCERT" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" PINK" tvg-name=" PINK KONCERT", PINK KONCERT
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=973&extension=ts
 
-#EXTINF:-1 tvg-id="┃EXYU┃ELITA 9 LIVE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ELITA 9 LIVE 1 HD",┃EXYU┃ELITA 9 LIVE 1 HD
+#EXTINF:-1 tvg-id="ELITA 9 LIVE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name="ELITA 9 LIVE 1 HD",ELITA 9 LIVE 1 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=994&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ELITA 9 LIVE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ELITA 9 LIVE 1",┃EXYU┃ELITA 9 LIVE 1
+#EXTINF:-1 tvg-id="ELITA 9 LIVE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name="ELITA 9 LIVE 1",ELITA 9 LIVE 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559154&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ ELITA 9 LIVE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ ELITA 9 LIVE 2 HD",┃EXYU┃ ELITA 9 LIVE 2 HD
+#EXTINF:-1 tvg-id=" ELITA 9 LIVE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name=" ELITA 9 LIVE 2 HD", ELITA 9 LIVE 2 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=993&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ ELITA 9 LIVE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ ELITA 9 LIVE 2",┃EXYU┃ ELITA 9 LIVE 2
+#EXTINF:-1 tvg-id=" ELITA 9 LIVE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name=" ELITA 9 LIVE 2", ELITA 9 LIVE 2
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559155&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ ELITA 9 LIVE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ ELITA 9 LIVE 3 HD",┃EXYU┃ ELITA 9 LIVE 3 HD
+#EXTINF:-1 tvg-id=" ELITA 9 LIVE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name=" ELITA 9 LIVE 3 HD", ELITA 9 LIVE 3 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=992&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ ELITA 9 LIVE 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ ELITA 9 LIVE 3",┃EXYU┃ ELITA 9 LIVE 3
+#EXTINF:-1 tvg-id=" ELITA 9 LIVE 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name=" ELITA 9 LIVE 3", ELITA 9 LIVE 3
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559156&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ ELITA 9 LIVE 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ ELITA 9 LIVE 4 HD",┃EXYU┃ ELITA 9 LIVE 4 HD
+#EXTINF:-1 tvg-id=" ELITA 9 LIVE 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name=" ELITA 9 LIVE 4 HD", ELITA 9 LIVE 4 HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=991&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ ELITA 9 LIVE 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ ELITA 9 LIVE 4",┃EXYU┃ ELITA 9 LIVE 4
+#EXTINF:-1 tvg-id=" ELITA 9 LIVE 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/ZADRUGA.png" group-title=" REALITY" tvg-name=" ELITA 9 LIVE 4", ELITA 9 LIVE 4
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=559157&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK REALITY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ PINK REALITY HD",┃EXYU┃ PINK REALITY HD
+#EXTINF:-1 tvg-id=" PINK REALITY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" REALITY" tvg-name=" PINK REALITY HD", PINK REALITY HD
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1000&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ PINK REALITY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ PINK REALITY",┃EXYU┃ PINK REALITY
+#EXTINF:-1 tvg-id=" PINK REALITY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/pink.png" group-title=" REALITY" tvg-name=" PINK REALITY", PINK REALITY
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=999&extension=ts
-#EXTINF:-1 tvg-id="┃EXYU┃ HAPPY PAROVI 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/happyparovi.png" group-title="┃EXYU┃ REALITY" tvg-name="┃EXYU┃ HAPPY PAROVI 1",┃EXYU┃ HAPPY PAROVI 1
+#EXTINF:-1 tvg-id=" HAPPY PAROVI 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/happyparovi.png" group-title=" REALITY" tvg-name=" HAPPY PAROVI 1", HAPPY PAROVI 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=762&extension=ts
