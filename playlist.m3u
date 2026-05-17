@@ -622,3 +622,6 @@ http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=1000&exte
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=999&extension=ts
 #EXTINF:-1 tvg-id=" HAPPY PAROVI 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/happyparovi.png" group-title=" REALITY" tvg-name=" HAPPY PAROVI 1", HAPPY PAROVI 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=762&extension=ts
+
+#EXTINF:-1 tvg-name="Svadba 2026" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2NaiiFPxzBc3JunKJcqkVI6LKA1.jpg" group-title="Filmovi",Svadba 2026
+https://vz-4ba137e1-9db.b-cdn.net/a4f10d8b-4940-430f-b666-7783d6040749/playlist.m3u8
