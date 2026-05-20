@@ -643,13 +643,7 @@ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=antenazagreb.hr&sz=128" group-title="HR RADIO",Antena Zagreb
 http://live.antenazagreb.hr:8000/stream
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=narodni.hr&sz=128" group-title="HR RADIO",Narodni Radio
-http://live.narodni.hr:8043/stream
-#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=narodni.hr&sz=128" group-title="HR RADIO",Narodni - Samo Veselo
-http://live.narodni.hr:8051/stream
-#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=narodni.hr&sz=128" group-title="HR RADIO",Narodni - Totalno Opušteno
-http://live.narodni.hr:8039/stream
-#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=narodni.hr&sz=128" group-title="HR RADIO",Narodni - Ljubav je u zraku
-http://live.narodni.hr:8055/stream
+http://live.narodni.hr:8059/;
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=hrt.hr&sz=128" group-title="HR RADIO",HRT HR2
 https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2_SC
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=radio-bakar.hr&sz=128" group-title="HR RADIO",Pomorski Radio Bakar
