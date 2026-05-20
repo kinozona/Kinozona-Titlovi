@@ -637,3 +637,59 @@ http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=762&exten
 
 #EXTINF:-1 tvg-name="Svadba 2026" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2NaiiFPxzBc3JunKJcqkVI6LKA1.jpg" group-title="Filmovi",Svadba 2026
 https://vz-4ba137e1-9db.b-cdn.net/a4f10d8b-4940-430f-b666-7783d6040749/playlist.m3u8
+
+#EXTINF:-1 group-title="HR RADIO",Antena Zagreb
+http://live.antenazagreb.hr:8000/listen.pls
+#EXTINF:-1 group-title="HR RADIO",Narodni Radio
+http://live.narodni.hr:8043/stream
+#EXTINF:-1 group-title="HR RADIO",Narodni - Samo Veselo
+http://live.narodni.hr:8051/stream
+#EXTINF:-1 group-title="HR RADIO",Narodni - Totalno Opušteno
+http://live.narodni.hr:8039/stream
+#EXTINF:-1 group-title="HR RADIO",Narodni - Ljubav je u zraku
+http://live.narodni.hr:8055/stream
+#EXTINF:-1 group-title="HR RADIO",HRT HR2
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2_SC
+#EXTINF:-1 group-title="HR RADIO",Pomorski Radio Bakar
+http://185.203.18.124:8010/live.mp3
+#EXTINF:-1 group-title="HR RADIO",Radio Baranja
+http://s8.iqstreaming.com:8036/stream
+#EXTINF:-1 group-title="HR RADIO",Radio Srce Posavine
+http://s2.free-shoutcast.com:18246/
+#EXTINF:-1 group-title="HR RADIO",Radio Banovina
+https://audio.radio-banovina.hr:9998/stream
+#EXTINF:-1 group-title="HR RADIO",Radio Banovina Turbo
+https://audio.radio-banovina.hr:7010/stream
+#EXTINF:-1 group-title="HR RADIO",Radio Banovina Light
+http://stream1.radio-banovina.hr:8026/stream
+
+#EXTINF:-1 group-title="BIH RADIO",Radio Sarajevo
+http://malla.softnet.si:8000/;stream.mp3
+#EXTINF:-1 group-title="BIH RADIO",Radio M Sarajevo
+http://team-data.ba:8030/listen.pls
+#EXTINF:-1 group-title="BIH RADIO",Radio M Caffe
+http://206.190.135.28:8037/
+#EXTINF:-1 group-title="BIH RADIO",Radio M Kanal 2
+http://206.190.135.28:8944/stream
+#EXTINF:-1 group-title="BIH RADIO",Radio M Folk Klub
+http://206.190.135.28:8092/
+#EXTINF:-1 group-title="BIH RADIO",Radio Miljacka
+http://94.130.11.28:8010/stream/1/
+#EXTINF:-1 group-title="BIH RADIO",JAZZ.BA Radio Sarajevo
+http://195.222.59.150:8004/JazzRadio
+#EXTINF:-1 group-title="BIH RADIO",Art Radio Sarajevo
+http://195.222.59.150:8002/ArtRadio
+#EXTINF:-1 group-title="BIH RADIO",Sevdah Radio Sarajevo
+http://195.222.59.150:8010/SevdahRadio
+#EXTINF:-1 group-title="BIH RADIO",Evergreen Radio Sarajevo
+http://195.222.59.150:8006/EvergeenRadio
+#EXTINF:-1 group-title="BIH RADIO",Radio BN
+http://stream.rtvbn.com:8522/listen.pls
+#EXTINF:-1 group-title="BIH RADIO",Kalman Radio
+http://50.7.70.58:8698/listen.pls
+#EXTINF:-1 group-title="BIH RADIO",BM Radio
+http://195.222.33.217:8070/listen.pls
+#EXTINF:-1 group-title="BIH RADIO",Radio BA
+http://streaming.radioba.ba:10002/radio_Ba.m3u
+#EXTINF:-1 group-title="BIH RADIO",Radio Posušje
+http://88.198.53.74:9994/listen.pls
