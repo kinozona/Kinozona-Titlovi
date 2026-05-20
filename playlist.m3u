@@ -1,3 +1,20 @@
+#EXTINF:-1 tvg-name="HRT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png", HRT 4
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+
+#EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" group-title="Hrvatska",HRT 3
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+
+#EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title="Hrvatska",HRT 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+
+#EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title="Hrvatska",HRT 1
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+
+#EXTINF:-1 tvg-name="RTL" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/09/rtl-logo-2017.jpg", RTL
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/500px-RTL_2_Logo.svg.png", RTL 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:-1 tvg-id=" HRT 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 1 4K", HRT 1 4K
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=890&extension=ts
 #EXTINF:-1 tvg-id=" HRT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png" group-title=" HRVATSKA" tvg-name=" HRT 1 HD", HRT 1 HD
