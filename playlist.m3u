@@ -1,16 +1,16 @@
-#EXTINF:-1 tvg-name="HRT 4 (stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" group-title="HRVATSKA", HRT 4
+#EXTINF:-1 tvg-name="HRT 4 (stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" group-title=" HRVATSKA", HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 
-#EXTINF:-1 tvg-name="HRT 3 (stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" group-title="HRVATSKA",HRT 3
+#EXTINF:-1 tvg-name="HRT 3 (stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" group-title=" HRVATSKA",HRT 3
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 
-#EXTINF:-1 tvg-name="HRT 2 (stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title="HRVATSKA",HRT 2
+#EXTINF:-1 tvg-name="HRT 2 (stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title=" HRVATSKA",HRT 2
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 
-#EXTINF:-1 tvg-name="HRT 1(stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title="HRVATSKA",HRT 1
+#EXTINF:-1 tvg-name="HRT 1(stabilan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title=" HRVATSKA",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 
-#EXTINF:-1 tvg-name="RTL (stabilan)" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/09/rtl-logo-2017.jpg" group-title="HRVATSKA", RTL
+#EXTINF:-1 tvg-name="RTL (stabilan)" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/09/rtl-logo-2017.jpg" group-title=" HRVATSKA", RTL
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 
 #EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/500px-RTL_2_Logo.svg.png", RTL 2
