@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0,naxi
+http://naxi128.streaming.rs:9150/
+#EXTINF:0,play
+http://stream.playradio.rs:8001/play.mp3
+#EXTINF:0,bum
+http://217.24.17.31:8102/
+#EXTINF:0,tdi
+http://streaming.tdiradio.com:8000/tdiradio
+#EXTINF:0,pingvin
+http://uzivo4.radiopingvin.com:8187/domaci1
+#EXTINF:0,bubamara
+http://92.60.230.200:5010/
+#EXTINF:0,cool
+http://176.9.30.66/
+#EXTINF:0,kiss
+http://176.31.239.83:8020/
+#EXTINF:0,laguna
+http://stream.radiolaguna.rs:8000/
+#EXTINF:0,top fm
+http://topfm128.streaming.rs:9280/
+#EXTINF:0,moj radio
+http://94.23.62.189:5692/
+#EXTINF:0,kosava
+http://85.25.254.201:8544/
+#EXTINF:0,rock
+http://rockradio.kbcnet.rs:8025/
+#EXTINF:0,101
+http://87.118.84.56:9300/
+#EXTINF:0,hit
+http://streaming.hitfm.rs:8000/hit
+#EXTINF:0,dak
+http://85.25.73.243:10150/
+#EXTINF:0,bum -  bum
+http://bumbum-stream.netlogic.rs:8000/
+#EXTINF:0,bravo
+http://streaming.orion.rs:8030/
+#EXTINF:0,nostalgija
+http://nostalgie128.streaming.rs:9250/
+#EXTINF:0,21
+http://109.206.96.106:8000/
