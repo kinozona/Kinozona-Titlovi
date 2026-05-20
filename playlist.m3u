@@ -641,7 +641,7 @@ https://vz-4ba137e1-9db.b-cdn.net/a4f10d8b-4940-430f-b666-7783d6040749/playlist.
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=antenazagreb.hr&sz=128" group-title="HR RADIO",Antena Zagreb
-http://live.antenazagreb.hr:8000/listen.pls
+http://live.antenazagreb.hr:8000/stream
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=narodni.hr&sz=128" group-title="HR RADIO",Narodni Radio
 http://live.narodni.hr:8043/stream
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=narodni.hr&sz=128" group-title="HR RADIO",Narodni - Samo Veselo
