@@ -635,8 +635,10 @@ http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=999&exten
 #EXTINF:-1 tvg-id=" HAPPY PAROVI 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/happyparovi.png" group-title=" REALITY" tvg-name=" HAPPY PAROVI 1", HAPPY PAROVI 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:1C:0A:01&stream=762&extension=ts
 
-#EXTINF:-1 tvg-name="Svadba 2026" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2NaiiFPxzBc3JunKJcqkVI6LKA1.jpg" group-title="Filmovi",Svadba 2026
+#EXTINF:-1 tvg-name="Svadba 2026" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2NaiiFPxzBc3JunKJcqkVI6LKA1.jpg" group-title="FILMOVI",Svadba 2026
 https://vz-4ba137e1-9db.b-cdn.net/a4f10d8b-4940-430f-b666-7783d6040749/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg" group-title="FILMOVI",Big Buck Bunny
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=antenazagreb.hr&sz=128" group-title="HR RADIO",Antena Zagreb
 http://live.antenazagreb.hr:8000/listen.pls
@@ -662,6 +664,8 @@ https://audio.radio-banovina.hr:9998/stream
 https://audio.radio-banovina.hr:7010/stream
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=radio-banovina.hr&sz=128" group-title="HR RADIO",Radio Banovina Light
 http://stream1.radio-banovina.hr:8026/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8" group-title="HR RADIO",Otvoreni
+https://stream.otvoreni.hr/otvoreni
 
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=radiosarajevo.ba&sz=128" group-title="BIH RADIO",Radio Sarajevo
 http://malla.softnet.si:8000/;stream.mp3
